@@ -1,0 +1,24 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" fill="#0F0F14"/>
+
+  <!-- purple blocks -->
+  <rect x="60" y="60" width="12" height="12" rx="3" fill="#7C5CFF"/>
+  <rect x="80" y="60" width="12" height="12" rx="3" fill="#FDBA74"/>
+  <rect x="100" y="60" width="12" height="12" rx="3" fill="#A7F3D0"/>
+
+  <!-- title -->
+  <text x="60" y="130"
+        font-family="monospace"
+        font-size="32"
+        fill="#EAEAF0">
+    I poke software until it becomes fun.
+  </text>
+
+  <!-- subtitle -->
+  <text x="60" y="170"
+        font-family="monospace"
+        font-size="16"
+        fill="#9A9AA6">
+    small experiments · curious behavior · fewer instructions
+  </text>
+</svg>
