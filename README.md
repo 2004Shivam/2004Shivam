@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://stats.dooboo.io/api/github-stats?username=2004Shivam&theme=dark" />
-  <img height="165" src="https://stats.dooboo.io/api/github-trophies?username=2004Shivam&theme=dark" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2FE6C7&icon_color=FF6B6B&text_color=D6E1EA" />
+  <img height="165" src="https://streak-stats.demolab.com?user=2004Shivam&theme=tokyonight&hide_border=true&background=0B1220&ring=2FE6C7&fire=FF6B6B&currStreakLabel=D6E1EA" />
 </p>
 
 <br>
