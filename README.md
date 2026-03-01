@@ -1,5 +1,14 @@
 <img src="./assets/cover.svg" width="100%" />
 
+<br>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&theme=transparent&hide_border=true&title_color=7C5CFF&icon_color=FDBA74&text_color=EAEAF0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004Shivam&layout=compact&theme=transparent&hide_border=true&title_color=7C5CFF&text_color=EAEAF0" />
+</p>
+
+<br>
+
 <h1 align="center">I poke software until it becomes fun.</h1>
 
 <p align="center">
