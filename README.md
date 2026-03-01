@@ -75,10 +75,14 @@ const brain = {
 
 ### the numbers that don't tell the full story
 
+<br>
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&theme=transparent&hide_border=true&title_color=7C5CFF&icon_color=FF5CF7&text_color=EAEAF0&bg_color=0F0F14" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004Shivam&layout=compact&theme=transparent&hide_border=true&title_color=7C5CFF&text_color=EAEAF0&bg_color=0F0F14" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2FE6C7&icon_color=FF6B6B&text_color=D6E1EA" />
+  <img height="165" src="https://streak-stats.demolab.com?user=2004Shivam&theme=tokyonight&hide_border=true&background=0B1220&ring=2FE6C7&fire=FF6B6B&currStreakLabel=D6E1EA" />
 </p>
+
+<br>
 
 <br/>
 
