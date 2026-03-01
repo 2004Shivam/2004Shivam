@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&bg_color=0F0F14&title_color=7C5CFF&icon_color=FDBA74&text_color=EAEAF0&border_color=0F0F14" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2004Shivam&layout=compact&bg_color=0F0F14&title_color=7C5CFF&text_color=EAEAF0&border_color=0F0F14" />
+  <img height="165" src="https://stats.dooboo.io/api/github-stats?username=2004Shivam&theme=dark" />
+  <img height="165" src="https://stats.dooboo.io/api/github-trophies?username=2004Shivam&theme=dark" />
 </p>
 
 <br>
