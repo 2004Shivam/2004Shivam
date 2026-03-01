@@ -1,3 +1,5 @@
+<img src="./assets/cover.svg" width="100%" />
+
 <h1 align="center">I poke software until it becomes fun.</h1>
 
 <p align="center">
