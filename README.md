@@ -1,5 +1,4 @@
 <img src="./assets/cover.svg" width="100%" />
-
 <br/>
 
 ```
@@ -48,12 +47,11 @@ const brain = {
 
 | ✦ project | what i was poking at |
 |:---|:---|
-| [`ReviewVista`](#) | collecting testimonials without the awkward chasing |
-| [`alarm-that-you-cant-ignore`](#) | waking up should require *intent* |
-| [`ui-that-guides`](#) | what if the interface explained itself |
-| [`onboarding-without-docs`](#) | learning by touching, not reading |
+| [`Planner_Flowchart`](https://github.com/2004Shivam/Planner_Flowchart) | a flowchart that judges you. 15-month roadmap to elite engineering. |
+| [`MedicureEnhanced`](https://github.com/2004Shivam/MedicureEnhanced) | AI that predicts disease. because waiting for a doctor is too slow. |
+| [`Truth-Lens`](https://github.com/Truth-lens-New/Truth-Lens-Mini-Project) | what if you could fact-check reality in real time? |
 
-> some repos are unfinished on purpose. the thinking matters more than the shipping.
+> some projects stay unfinished on purpose. the thinking matters more than the shipping.
 
 <br/>
 
