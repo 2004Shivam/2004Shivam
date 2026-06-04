@@ -1,11 +1,13 @@
 <img src="./assets/cover.svg" width="100%" />
 <br/>
 
-```
+<pre>
 > booting curiosity engine...
 > loading: weird ideas ██████████ 100%
 > removing: unnecessary choices ██████████ 100%
 > status: poking things until they're fun ✦
+</pre>
+
 ---
 
 ### now.exe
@@ -34,27 +36,33 @@ const now = {
 ```
 
 ---
-```
+
 ### tools i keep reaching for
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,git,linux,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,git,linux,tailwind" />
 </p>
-
----
-<br/>
 
 ---
 
 ### what this place is
 
-Not a portfolio. More like a **lab notebook.**
+Not a portfolio. More like a **lab notebook**.
 
-I build things to understand behavior — then surgically remove the parts humans shouldn't need to think about. Sometimes the experiment fails. That's the point.
+I build things to understand behavior, then cut away the parts people should not have to think about. Sometimes the experiment fails. That is still part of the notebook.
 
-> *"Understanding > shipping fast."*
+> *understanding first. noise later.*
 
-<br/>
+---
+
+### things that escaped the notebook
+
+| experiment | what happened |
+|:---|:---|
+| [`Truth-Lens-Mini-Project`](https://github.com/Truth-lens-New/Truth-Lens-Mini-Project) | fact-checking for fake news, AI-generated images, and AI-generated videos |
+| [`Planner_Flowchart`](https://github.com/2004Shivam/Planner_Flowchart) | a flowchart that judges you, then hands you a 15-month roadmap |
+| [`MumbaiHacks_Truthlens_SatyaAI`](https://github.com/2004Shivam/MumbaiHacks_Truthlens_SatyaAI) | a hackathon build around truth verification and AI-assisted checking |
+| [`Shivam`](https://github.com/2004Shivam/Shivam) | personal portfolio, because a developer needs a home base too |
 
 ---
 
@@ -73,68 +81,44 @@ const brain = {
 }
 ```
 
-<br/>
-
----
-
-### things that escaped the notebook
-
-| experiment | what happened |
-|------------|---------------|
-| ReviewVista | collecting testimonials should not require detective work |
-| MediCure | teaching software to make educated medical guesses |
-| Planner Flowchart | a roadmap that refuses to tolerate excuses |
-| Truth Lens | reality occasionally benefits from verification |
-<br/>
-
 ---
 
 ### how a thing gets built around here
 
-```
+```text
 1. find the confusion
         ↓
-2. remove the options  
+2. remove the options
         ↓
 3. prototype the interaction
         ↓
-4. then — and only then — write code
+4. then - and only then - write code
 ```
-
-<br/>
 
 ---
 
-### the numbers that don't tell the full story
-
-<br>
+### traces of recent damage
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=2FE6C7&icon_color=FF6B6B&text_color=D6E1EA" />
   <img height="165" src="https://streak-stats.demolab.com?user=2004Shivam&theme=tokyonight&hide_border=true&background=0B1220&ring=2FE6C7&fire=FF6B6B&currStreakLabel=D6E1EA" />
 </p>
 
-<br>
-
-<br/>
-
----
-
-### find me elsewhere
-
-```
-i'm usually lurking where curious people build weird things.
-```
-
-[![Twitter / X](https://img.shields.io/badge/𝕏_twitter-0F0F14?style=for-the-badge&logo=x&logoColor=EAEAF0)](https://x.com/AchhaInsaan)
-[![website](https://img.shields.io/badge/website-0F0F14?style=for-the-badge&logo=firefox&logoColor=7C5CFF)](https://shivamyadavportfolio.firebaseapp.com/)
-
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2004Shivam&theme=tokyo-night&hide_border=true&bg_color=0B1220" />
+</p>
 
 ---
+
+### other corners of the internet
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=2004Shivam&style=flat-square&color=7C5CFF&label=curious+visitors" />
+  <a href="https://x.com/AchhaInsaan">
+    <img src="https://img.shields.io/badge/𝕏_twitter-0F0F14?style=for-the-badge&logo=x&logoColor=EAEAF0" />
+  </a>
+  <a href="https://shivamyadavportfolio.firebaseapp.com/">
+    <img src="https://img.shields.io/badge/website-0F0F14?style=for-the-badge&logo=firefox&logoColor=7C5CFF" />
+  </a>
 </p>
 
 <p align="center">
