@@ -6,8 +6,42 @@
 > loading: weird ideas ██████████ 100%
 > removing: unnecessary choices ██████████ 100%
 > status: poking things until they're fun ✦
+---
+
+### now.exe
+
+```js
+const now = {
+  building: [
+    "Truthlens"
+  ],
+
+  learning: [
+    "Machine Learning",
+    "Data Structures",
+    "System Design"
+  ],
+
+  environment: [
+    "CachyOS",
+    "Hyprland"
+  ],
+
+  currently_breaking: [
+    "my own assumptions"
+  ]
+}
 ```
 
+---
+```
+### tools i keep reaching for
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,git,linux,tailwind" />
+</p>
+
+---
 <br/>
 
 ---
@@ -43,16 +77,14 @@ const brain = {
 
 ---
 
-### selected experiments
+### things that escaped the notebook
 
-| ✦ project | what i was poking at |
-|:---|:---|
-| [`Planner_Flowchart`](https://github.com/2004Shivam/Planner_Flowchart) | a flowchart that judges you. 15-month roadmap to elite engineering. |
-| [`MedicureEnhanced`](https://github.com/2004Shivam/MedicureEnhanced) | AI that predicts disease. because waiting for a doctor is too slow. |
-| [`Truth-Lens`](https://github.com/Truth-lens-New/Truth-Lens-Mini-Project) | what if you could fact-check reality in real time? |
-
-> some projects stay unfinished on purpose. the thinking matters more than the shipping.
-
+| experiment | what happened |
+|------------|---------------|
+| ReviewVista | collecting testimonials should not require detective work |
+| MediCure | teaching software to make educated medical guesses |
+| Planner Flowchart | a roadmap that refuses to tolerate excuses |
+| Truth Lens | reality occasionally benefits from verification |
 <br/>
 
 ---
