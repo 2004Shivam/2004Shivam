@@ -1,47 +1,49 @@
 <img src="./assets/cover.svg" width="100%" />
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d0a07,7c2d12,f59e0b&height=200&section=header&text=Shivam%20Yadav&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=GenAI%20Engineer%20%C2%B7%20I%20build%20AI%20things%20that%20ship&descAlignY=62&descSize=15" width="100%" />
+</div>
+
 <p align="center">
-  <i>booting curiosity engine... loading weird ideas... removing unnecessary choices...</i>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3500&pause=1000&color=F59E0B&center=true&vCenter=true&width=720&lines=I+build+RAG+pipelines+and+AI+agents.;I've+shipped+TruthLens+and+swe-agent.;I+can+take+an+AI+product+from+zero+to+deployed%2C+alone." alt="typing" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mumbai%2C%20India-1a1208?style=flat-square&logo=googlemaps&logoColor=f59e0b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MCA%20%40%20VESIT%20'27-1a1208?style=flat-square&logoColor=f59e0b" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%9C%A6%20Open%20to%20GenAI%20Roles-14532d?style=flat-square&logoColor=4ade80" />
+  &nbsp;
+  <a href="https://twitter.com/AchhaInsaan">
+    <img src="https://img.shields.io/badge/@AchhaInsaan-09090b?style=flat-square&logo=x&logoColor=f5ead8" />
+  </a>
 </p>
 
 ---
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-### now.exe
-
-```js
-const now = {
-  building: ["Truthlens"],
-  learning: [
-    "Machine Learning",
-    "Data Structures",
-    "System Design"
-  ],
-  environment: ["CachyOS", "Hyprland"],
-  currently_breaking: ["my own assumptions"]
+```json
+{
+  "now"      : "building RAG pipeline — ChromaDB · FastAPI · PostgreSQL",
+  "learning" : ["Python deeply", "DSA (Striver A2Z)", "LLM eval"],
+  "seeking"  : "GenAI roles — GCCs · AI startups · remote USD",
+  "runs_on"  : ["CachyOS", "Hyprland", "curiosity"]
 }
 ```
 
 </td>
-<td width="42%" valign="top">
+<td width="38%" valign="top">
 
-### signal
+**builds** → RAG pipelines · AI agents · production ML systems
 
-- lab notebook first
-- experiments over slogans
-- interface > explanation
-- fewer decisions, better flow
+**method** → zero to deployed, alone
 
-### environment
-
-- CachyOS
-- Hyprland
-- terminal windows
-- caffeine, regrettably
+**principle** → understanding compounds
 
 </td>
 </tr>
@@ -49,19 +51,115 @@ const now = {
 
 ---
 
-### tools i keep reaching for
+### shipped
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 TruthLens**
+
+Multi-modal misinformation detection. 7-service ML pipeline — text, images, video. EfficientNet B3 for visual fake detection. FastAPI + React 18, Dockerized.
+
+`EfficientNet B3` `FastAPI` `Docker` `React 18` `TypeScript`
+
+[→ view repo](https://github.com/Truth-lens-New/Truth-Lens-Mini-Project)
+
+</td>
+<td width="50%" valign="top">
+
+**🤖 swe-agent**
+
+Autonomous incident-to-fix. Reads a GitHub issue and ships a fix — ReAct loop, Docker-sandboxed execution, Redis task queue, Node.js orchestration. Built at Syrus 2026.
+
+`Python` `Node.js` `Docker` `Redis` `TypeScript`
+
+[→ view repo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎙 ARIA**
+
+Voice-first vernacular banking for semi-digital Bharat. Whisper → IndicTrans2 → Claude API over WebSocket. Built for iDEA 2.0 (Union Bank of India).
+
+`OpenAI Whisper` `Claude API` `FastAPI` `Redis` `React`
+
+</td>
+<td width="50%" valign="top">
+
+**🥦 Evee**
+
+Point camera at food → instant macros + health context. AI food intelligence PWA. Built at AMD Slingshot hackathon.
+
+`Next.js` `Gemini 2.5 Flash` `PWA`
+
+</td>
+</tr>
+</table>
+
+---
+
+### how a thing gets built here
+
+```
+1. find the actual confusion
+         ↓
+2. remove every option that shouldn't exist
+         ↓
+3. prototype the interaction — no code yet
+         ↓
+4. then — only then — write code
+```
+
+> *understanding compounds. speed is a byproduct.*
+
+---
+
+### stack
+
+```
+AI / ML   →  LangChain · FastAPI · Hugging Face · ChromaDB · Pinecone
+Languages →  Python · TypeScript · JavaScript
+Frontend  →  React 18 · Next.js · Tailwind CSS
+Infra     →  PostgreSQL · Redis · Docker · GCP · AWS
+```
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,mongodb,git,linux,tailwind" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=2004Shivam&show_icons=true&hide_border=true&bg_color=0d0a07&title_color=f59e0b&icon_color=ea580c&text_color=e8d5b7" />
+  &nbsp;
+  <img height="160" src="https://streak-stats.demolab.com?user=2004Shivam&hide_border=true&background=0d0a07&ring=f59e0b&fire=ea580c&currStreakLabel=e8d5b7" />
 </p>
 
 ---
 
-### what this place is
+### find me
 
-Not a portfolio. More like a **lab notebook**.
+<p align="center">
+  <a href="https://twitter.com/AchhaInsaan">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-09090b?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://shivamyadavportfolio.firebaseapp.com">
+    <img src="https://img.shields.io/badge/portfolio-1a1208?style=for-the-badge&logo=firefox&logoColor=f59e0b" />
+  </a>
+</p>
 
-I build things to understand behavior, then cut away the parts people should not have to think about. Sometimes the experiment fails. That is still part of the notebook.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2004Shivam&style=flat-square&color=f59e0b&label=curious+visitors" />
+</p>
+
+<p align="center">
+  <sub>made with curiosity · some experiments explode · that's fine</sub>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f59e0b,7c2d12,0d0a07&height=120&section=footer" width="100%" />
+</div>part of the notebook.
 
 ---
 
